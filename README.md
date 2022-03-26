@@ -1,6 +1,6 @@
 # blog
 
-[![Watch the video]()]('/screen-recorder-sat-mar-26-2022-16-28-13.webm')
+[![Watch the video]('/screen-recorder-sat-mar-26-2022-16-28-13.webm)]
 
 ## Project setup
 ```
